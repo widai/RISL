@@ -8,40 +8,41 @@ Getting Started
 
 Your directory needs to be in the following format: 
 
-|_ Tensorflow
-
-    |_ labelimg
-    
-    |_ models
-    |_ protoc
-    |_ scripts
-    |_ workspace
-      |_ annotations
-      |_ images 
-        |_ collectedimages 
-        |_ test
-        |_ train
-      |_ models
-        |_ my_ssd_mobnet_tuned3
-          |_ export 
-          |_ tfjsexport
-          |_ tfliteexport
-          |_ train
-        |_ my_ssd_mobnet_tuned4
-          |_ export 
-          |_ tfjsexport
-          |_ tfliteexport
-          |_ train
-        |_ pre-traned-models
-          |_ ssd_mobnet_v2_fpnlite_320x320_coco17_tpu-8
-            |_ checkpoint
-          |_ saved_model
-            |_ variables
-
-      
-
-  
-
+    |_ Tensorflow
+        |_ labelimg
+        |_ models
+        |_ protoc
+        |_ scripts
+        |_ workspace
+          |_ annotations
+          |_ images 
+            |_ collectedimages 
+            |_ test
+            |_ train
+          |_ models
+            |_ my_ssd_mobnet_tuned3
+              |_ export 
+              |_ tfjsexport
+              |_ tfliteexport
+              |_ train
+            |_ my_ssd_mobnet_tuned4
+              |_ export 
+              |_ tfjsexport
+              |_ tfliteexport
+              |_ train
+            |_ pre-traned-models
+              |_ ssd_mobnet_v2_fpnlite_320x320_coco17_tpu-8
+                |_ checkpoint
+              |_ saved_model
+                |_ variables
+    |_ Installation Master Script-checkpoint.ipynb
+    |_ Image Collection (WebCam)-checkpoint.ipynb
+    |_ Automate Labeling-checkpoint.ipynb
+    |_ New Model Training, Evaluation & Detection-checkpoint
+    |_ Labelimg (Optional)-checkpoint.ipynb
+    |_ Real Time Detection ( a, c, o, v ) ( Optional )-checkpoint.ipynb
+    |_ Real Time Detection for 11 Alphabets-checkpoint.ipynb
+    |_ Training & Detection-checkpoint.ipynb
 
 Pre-requisites 
 Before running this project, make sure you have following dependencies -
