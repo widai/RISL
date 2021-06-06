@@ -41,4 +41,9 @@ For more detailed explanation you can check out our blog here -
 1. Blog 1 
 2. Blog 2 
 
-Collaborators - Ankita Dasgupta, Ishita Gupta, Kopal Sharma
+Optional IPython Notebooks 
+1. Labelimg (Optional).ipynb - This directly installs the dosftware Labelimg from it's github repository.  This helps in manual generation of XML files for coordinates. This process was automated by us in "Automate Labelling.ipynb"
+2. Real Time Detecton (a,c,o,v) (Optional). ipynb - This is a tuned model for real time detection of the alphabets "A" "C" "O" "V". To use this model, one needs to set the variable "SET_LATEST_CHECKPOINT" to ckpt-6 
+3. Real Time Detection for 11 Alphabets.ipynb - This is a tuned model for real time dtection of the alphabets "A" "C" "O" "V" "D" "F" "I" "M" "R" "X" "Z". To use this model, one needs to set the variable "SET_LATEST_CHECKPOINT" to ckpt-16 
+
+Collaborators - Ankita Dasgupta, Ishita Gupta, WidAI 
