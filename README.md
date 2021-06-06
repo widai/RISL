@@ -29,6 +29,7 @@ To run the project, perform following steps -
 <Blog se copy paste>
 
 Results 
+
 ![image](https://user-images.githubusercontent.com/84955516/120929931-b1b49600-c708-11eb-8a11-e1b5ae784b81.png)
 ![image](https://user-images.githubusercontent.com/84955516/120930049-44553500-c709-11eb-8dca-3e0487fca853.png)
 ![image](https://user-images.githubusercontent.com/84955516/120930057-4b7c4300-c709-11eb-8275-408df6d27a8d.png)
@@ -39,3 +40,5 @@ Results
 For more detailed explanation you can check out our blog here - 
 1. Blog 1 
 2. Blog 2 
+
+Collaborators - Ankita Dasgupta, Ishita Gupta, Kopal Sharma
