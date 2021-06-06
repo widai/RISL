@@ -6,6 +6,41 @@ We developed this project for Rotaract Club of Bombay Airport under their initia
 
 Getting Started 
 
+Your directory needs to be in the following format: 
+
+|_ Tensorflow
+    |_ labelimg
+    |_ models
+    |_ protoc
+    |_ scripts
+    |_ workspace
+      |_ annotations
+      |_ images 
+        |_ collectedimages 
+        |_ test
+        |_ train
+      |_ models
+        |_ my_ssd_mobnet_tuned3
+          |_ export 
+          |_ tfjsexport
+          |_ tfliteexport
+          |_ train
+        |_ my_ssd_mobnet_tuned4
+          |_ export 
+          |_ tfjsexport
+          |_ tfliteexport
+          |_ train
+        |_ pre-traned-models
+          |_ ssd_mobnet_v2_fpnlite_320x320_coco17_tpu-8
+            |_ checkpoint
+          |_ saved_model
+            |_ variables
+
+      
+
+  
+
+
 Pre-requisites 
 Before running this project, make sure you have following dependencies -
 1. Python 3.6 
