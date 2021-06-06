@@ -9,7 +9,9 @@ Getting Started
 Your directory needs to be in the following format: 
 
 |_ Tensorflow
+
     |_ labelimg
+    
     |_ models
     |_ protoc
     |_ scripts
