@@ -76,8 +76,8 @@ Results
 
 
 For more detailed explanation you can check out our blog here - 
-1. Blog 1 
-2. Blog 2 
+1. https://www.widai.biz/post/realtime-isl-detection1
+2. https://www.widai.biz/post/realtime-isl-detection2
 
 Optional IPython Notebooks 
 1. Labelimg (Optional).ipynb - This directly installs the dosftware Labelimg from it's github repository.  This helps in manual generation of XML files for coordinates. This process was automated by us in "Automate Labelling.ipynb"
